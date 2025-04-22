@@ -60,3 +60,4 @@ I'm a results-driven Business Intelligence Analyst with a passion for solving re
 fresh-beats-report
 TripleTen Business Intelligence Analyst Sprint 0 Project
 Updated README with project summary
+Added professional project summary to README
