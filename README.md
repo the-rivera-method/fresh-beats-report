@@ -61,3 +61,6 @@ fresh-beats-report
 TripleTen Business Intelligence Analyst Sprint 0 Project
 Updated README with project summary
 Added professional project summary to README
+- [`Jose R Fresh Beats- Bus Insights Report Sprint 0 2025.pdf`](./Jose%20R%20Fresh%20Beats-%20Bus%20Insights%20Report%20Sprint%200%202025.pdf):  
+  Final corrected version with updated insights for Visual A.
+
