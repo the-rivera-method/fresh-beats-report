@@ -26,7 +26,7 @@ Fresh Beats is a digital music platform that connects fans with emerging artists
 
 ## 📎 Files Included
 
-- [`Fresh Beats-Business Insights Report Jay BIA 1st proj.pdf`](./Fresh%20Beats-Business%20Insights%20Report%20Jay%20BIA%201st%20proj.pdf):  
+-- [`Jose R Fresh Beats- Bus Insights Report Sprint 0 2025.pdf`](./Jose%20R%20Fresh%20Beats-%20Bus%20Insights%20Report%20Sprint%200%202025.pdf): 
   Final project report with insights, visuals, and recommendations.
 
 ---
